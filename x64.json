@@ -1,5 +1,5 @@
 [{
-    "Value": "48896c2440488974244881fbf71c00000f85********488d0d",
+    "Value": "32c984c9410f44c4448be0e9********488d0d",
     "ASMSignature": true,
     "Key": "TARGET",
     "Notes": [],
@@ -17,7 +17,7 @@
     "Notes": [],
     "PointerPath": [0, 16]
 }, {
-    "Value": "8bd78020fbf6db1ac980e1040808488d0d",
+    "Value": "0fb7430866894772488b7c24308bd6488d0d",
     "ASMSignature": true,
     "Key": "PARTYMAP",
     "Notes": [],
